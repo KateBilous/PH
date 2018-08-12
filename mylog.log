@@ -1,0 +1,149 @@
+DEBUG    [2018-08-12 22:25:58,667] This is a debug message
+INFO     [2018-08-12 22:25:58,668] This is an info message
+WARNING  [2018-08-12 22:25:58,669] This is a warning
+ERROR    [2018-08-12 22:25:58,669] This is an error message
+CRITICAL [2018-08-12 22:25:58,669] FATAL!!!
+DEBUG    [2018-08-12 22:26:36,466] This is a debug message
+INFO     [2018-08-12 22:26:36,466] This is an info message
+WARNING  [2018-08-12 22:26:36,467] This is a warning
+ERROR    [2018-08-12 22:26:36,467] This is an error message
+CRITICAL [2018-08-12 22:26:36,467] FATAL!!!
+INFO     [2018-08-12 22:26:36,467] b'stackoverflow'
+DEBUG    [2018-08-12 22:27:14,554] This is a debug message
+INFO     [2018-08-12 22:27:14,554] This is an info message
+WARNING  [2018-08-12 22:27:14,555] This is a warning
+ERROR    [2018-08-12 22:27:14,555] This is an error message
+CRITICAL [2018-08-12 22:27:14,555] FATAL!!!
+INFO     [2018-08-12 22:27:14,555] b'stackoverflow'
+DEBUG    [2018-08-12 22:27:26,846] This is a debug message
+INFO     [2018-08-12 22:27:26,846] This is an info message
+WARNING  [2018-08-12 22:27:26,846] This is a warning
+ERROR    [2018-08-12 22:27:26,846] This is an error message
+CRITICAL [2018-08-12 22:27:26,847] FATAL!!!
+INFO     [2018-08-12 22:27:26,847] b'stackoverflow'
+DEBUG    [2018-08-12 22:29:15,127] This is a debug message
+INFO     [2018-08-12 22:29:15,127] This is an info message
+WARNING  [2018-08-12 22:29:15,128] This is a warning
+ERROR    [2018-08-12 22:29:15,128] This is an error message
+CRITICAL [2018-08-12 22:29:15,128] FATAL!!!
+INFO     [2018-08-12 22:29:15,128] type<class 'bytes'>
+DEBUG    [2018-08-12 22:47:07,286] This is a debug message
+INFO     [2018-08-12 22:47:07,286] This is an info message
+WARNING  [2018-08-12 22:47:07,286] This is a warning
+ERROR    [2018-08-12 22:47:07,286] This is an error message
+CRITICAL [2018-08-12 22:47:07,286] FATAL!!!
+INFO     [2018-08-12 22:47:07,287] type<class 'bytes'>
+INFO     [2018-08-12 22:47:07,287] b'stackoverflow'
+DEBUG    [2018-08-12 22:49:37,904] This is a debug message
+INFO     [2018-08-12 22:49:37,905] This is an info message
+WARNING  [2018-08-12 22:49:37,905] This is a warning
+ERROR    [2018-08-12 22:49:37,905] This is an error message
+CRITICAL [2018-08-12 22:49:37,905] FATAL!!!
+INFO     [2018-08-12 22:49:37,905] type<class 'bytes'>
+INFO     [2018-08-12 22:49:37,905] b'stackoverflow'
+DEBUG    [2018-08-12 23:03:44,888] This is a debug message
+INFO     [2018-08-12 23:03:44,889] This is an info message
+WARNING  [2018-08-12 23:03:44,889] This is a warning
+ERROR    [2018-08-12 23:03:44,889] This is an error message
+CRITICAL [2018-08-12 23:03:44,890] FATAL!!!
+INFO     [2018-08-12 23:03:44,890] type<class 'bytes'>
+INFO     [2018-08-12 23:03:44,890] b'stackoverf\xd1\x87\xd1\x87low'
+DEBUG    [2018-08-12 23:04:05,145] This is a debug message
+INFO     [2018-08-12 23:04:05,145] This is an info message
+WARNING  [2018-08-12 23:04:05,145] This is a warning
+ERROR    [2018-08-12 23:04:05,145] This is an error message
+CRITICAL [2018-08-12 23:04:05,145] FATAL!!!
+INFO     [2018-08-12 23:04:05,145] type<class 'bytes'>
+INFO     [2018-08-12 23:04:05,145] b'stackoverf\xd1\x87\xd1\x87low'
+DEBUG    [2018-08-12 23:07:15,340] This is a debug message
+INFO     [2018-08-12 23:07:15,340] This is an info message
+WARNING  [2018-08-12 23:07:15,340] This is a warning
+ERROR    [2018-08-12 23:07:15,340] This is an error message
+CRITICAL [2018-08-12 23:07:15,340] FATAL!!!
+DEBUG    [2018-08-12 23:07:58,792] This is a debug message
+INFO     [2018-08-12 23:07:58,792] This is an info message
+WARNING  [2018-08-12 23:07:58,793] This is a warning
+ERROR    [2018-08-12 23:07:58,793] This is an error message
+CRITICAL [2018-08-12 23:07:58,793] FATAL!!!
+DEBUG    [2018-08-12 23:08:58,145] This is a debug message
+INFO     [2018-08-12 23:08:58,145] This is an info message
+WARNING  [2018-08-12 23:08:58,145] This is a warning
+ERROR    [2018-08-12 23:08:58,145] This is an error message
+CRITICAL [2018-08-12 23:08:58,146] FATAL!!!
+DEBUG    [2018-08-12 23:09:20,818] This is a debug message
+INFO     [2018-08-12 23:09:20,818] This is an info message
+WARNING  [2018-08-12 23:09:20,819] This is a warning
+ERROR    [2018-08-12 23:09:20,819] This is an error message
+CRITICAL [2018-08-12 23:09:20,819] FATAL!!!
+INFO     [2018-08-12 23:09:20,819] type<class 'tuple'>
+INFO     [2018-08-12 23:09:20,819] (b'stackoverflow', 'utf-8')
+DEBUG    [2018-08-12 23:10:29,977] This is a debug message
+INFO     [2018-08-12 23:10:29,977] This is an info message
+WARNING  [2018-08-12 23:10:29,977] This is a warning
+ERROR    [2018-08-12 23:10:29,977] This is an error message
+CRITICAL [2018-08-12 23:10:29,977] FATAL!!!
+INFO     [2018-08-12 23:10:29,977] type<class 'bytes'>
+INFO     [2018-08-12 23:10:29,977] b'stackoverflow'
+DEBUG    [2018-08-12 23:22:59,720] This is a debug message
+INFO     [2018-08-12 23:22:59,798] This is an info message
+WARNING  [2018-08-12 23:22:59,799] This is a warning
+ERROR    [2018-08-12 23:22:59,799] This is an error message
+CRITICAL [2018-08-12 23:22:59,799] FATAL!!!
+INFO     [2018-08-12 23:22:59,799] type<class 'bytes'>
+INFO     [2018-08-12 23:22:59,799] b'stackoverflow'
+DEBUG    [2018-08-12 23:23:26,197] This is a debug message
+INFO     [2018-08-12 23:23:26,197] This is an info message
+WARNING  [2018-08-12 23:23:26,198] This is a warning
+ERROR    [2018-08-12 23:23:26,198] This is an error message
+CRITICAL [2018-08-12 23:23:26,198] FATAL!!!
+INFO     [2018-08-12 23:23:26,198] type<class 'bytes'>
+INFO     [2018-08-12 23:23:26,198] b'stackoverflow'
+DEBUG    [2018-08-12 23:23:28,317] This is a debug message
+INFO     [2018-08-12 23:23:28,318] This is an info message
+WARNING  [2018-08-12 23:23:28,318] This is a warning
+ERROR    [2018-08-12 23:23:28,318] This is an error message
+CRITICAL [2018-08-12 23:23:28,318] FATAL!!!
+INFO     [2018-08-12 23:23:28,318] type<class 'bytes'>
+INFO     [2018-08-12 23:23:28,318] b'stackoverflow'
+DEBUG    [2018-08-12 23:24:19,710] This is a debug message
+INFO     [2018-08-12 23:24:19,710] This is an info message
+WARNING  [2018-08-12 23:24:19,710] This is a warning
+ERROR    [2018-08-12 23:24:19,711] This is an error message
+CRITICAL [2018-08-12 23:24:19,711] FATAL!!!
+INFO     [2018-08-12 23:24:19,711] type<class 'bytes'>
+INFO     [2018-08-12 23:24:19,711] b'stackoverflow'
+DEBUG    [2018-08-12 23:25:11,117] This is a debug message
+INFO     [2018-08-12 23:25:11,117] This is an info message
+WARNING  [2018-08-12 23:25:11,118] This is a warning
+ERROR    [2018-08-12 23:25:11,118] This is an error message
+CRITICAL [2018-08-12 23:25:11,118] FATAL!!!
+INFO     [2018-08-12 23:25:11,118] type<class 'bytes'>
+INFO     [2018-08-12 23:25:11,118] b'stackoverflow'
+DEBUG    [2018-08-12 23:25:20,067] This is a debug message
+INFO     [2018-08-12 23:25:20,067] This is an info message
+WARNING  [2018-08-12 23:25:20,068] This is a warning
+ERROR    [2018-08-12 23:25:20,069] This is an error message
+CRITICAL [2018-08-12 23:25:20,069] FATAL!!!
+INFO     [2018-08-12 23:25:20,069] type<class 'bytes'>
+INFO     [2018-08-12 23:25:20,069] b'stackoverflow'
+DEBUG    [2018-08-12 23:25:43,898] This is a debug message
+INFO     [2018-08-12 23:25:43,898] This is an info message
+WARNING  [2018-08-12 23:25:43,898] This is a warning
+ERROR    [2018-08-12 23:25:43,898] This is an error message
+CRITICAL [2018-08-12 23:25:43,898] FATAL!!!
+INFO     [2018-08-12 23:25:43,898] type<class 'bytes'>
+INFO     [2018-08-12 23:25:43,898] b'stackoverflow'
+DEBUG    [2018-08-12 23:26:28,885] This is a debug message
+INFO     [2018-08-12 23:26:28,885] This is an info message
+WARNING  [2018-08-12 23:26:28,885] This is a warning
+ERROR    [2018-08-12 23:26:28,886] This is an error message
+CRITICAL [2018-08-12 23:26:28,886] FATAL!!!
+INFO     [2018-08-12 23:26:28,886] type<class 'bytes'>
+INFO     [2018-08-12 23:26:28,886] b'stackoverflow'
+DEBUG    [2018-08-12 23:27:09,955] This is a debug message
+INFO     [2018-08-12 23:27:09,955] This is an info message
+WARNING  [2018-08-12 23:27:09,955] This is a warning
+ERROR    [2018-08-12 23:27:09,955] This is an error message
+CRITICAL [2018-08-12 23:27:09,955] FATAL!!!
+INFO     [2018-08-12 23:27:09,955] type<class 'bytes'>
+INFO     [2018-08-12 23:27:09,955] b'stackoverflow'
